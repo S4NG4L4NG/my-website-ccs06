@@ -1,0 +1,161 @@
+.ndfHFb-c4YZDc-HiaYvf-RJLb9c {
+	position: absolute;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	bottom: 0px;
+}
+
+
+.CONTACTME {
+	position: absolute;
+	left: 100px;
+	right: 190px;
+	top: 232px;
+	bottom: 569px;
+	text-align: center;
+
+	font-family: 'Dongle';
+	font-style: normal;
+	font-size: 100px;
+	width: 1000px;
+	height: 100px;
+
+
+
+	color: #FFFFFF;
+}
+
+
+.ABOUT {
+	color: rgba(137.0514714717865, 137.0514714717865, 137.0514714717865, 1);
+	position: absolute;
+	left: 985px;
+	right: 200px;
+	top: 13px;
+	bottom: 971px;
+
+	width: 56px;
+	height: 24px;
+	font-family: 'Dongle';
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 0;
+}
+
+
+.CONTACT {
+	color: rgba(137.0514714717865, 137.0514714717865, 137.0514714717865, 1);
+	position: absolute;
+	left: 1095px;
+	right: 200px;
+	top: 13px;
+	bottom: 990px;
+
+	width: 56px;
+	height: 24px;
+	font-family: 'Dongle';
+	text-align: center;
+	font-size: 30px;
+	letter-spacing: 0;
+}
+
+.NAME {
+	position: absolute;
+	left: 580px;
+	right: 500px;
+	top: 312px;
+	bottom: 580px;
+	text-align: center;
+
+	font-family: 'Dongle';
+	font-style: normal;
+	font-size: 40px;
+	width: 500px;
+	height: 21px;
+
+	color: #FFFFFF;
+}
+
+.auflogo{
+	position: absolute;
+	left: 550px;
+	right: 222px;
+	top: 600px;
+	bottom: 221px;
+	width: 45px;
+	height: 78px;
+}
+
+.button1{
+
+	position: absolute;
+	width: 276px;
+	height: 73px;
+	left: 920px;
+	right: 222px;
+	top: 620px;
+	bottom: 221px;
+
+}
+
+.button2{
+
+	position: absolute;
+	width: 276px;
+	height: 73px;
+	left: 630px;
+	right: 222px;
+	top: 620px;
+	bottom: 221px;
+
+}
+
+.tutor {
+	position: absolute;
+	color: rgba(0, 0, 0, 1);
+	width: 108px;
+	height: 26px;
+	font-family: Epilogue;
+	text-align: left;
+	font-size: 25px;
+	letter-spacing: 0;
+	left: 680px;
+	right: 222px;
+	top: 640px;
+	bottom: 221px;
+}
+
+.price {
+	position: absolute;
+	color: rgba(0, 0, 0, 1);
+	width: 200px;
+	height: 26px;
+	font-family: Epilogue;
+	text-align: left;
+	font-size: 25px;
+	letter-spacing: 0;
+	left: 970px;
+	right: 222px;
+	top: 640px;
+	bottom: 221px;
+}
+
+.coinlogo {
+	position: absolute;
+	color: rgba(0, 0, 0, 1);
+	width: 37px;
+	height: 37px;
+	font-size: 25px;
+	letter-spacing: 0;
+	left: 1127px;
+	right: 222px;
+	top: 635px;
+	bottom: 221px;
+}
+
+
+
+
+
+# my-website-ccs06
